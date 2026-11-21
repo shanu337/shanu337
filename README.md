@@ -1,6 +1,6 @@
 ### Hey, I'm Shantanu Sharma (`@shanu337`) 👋
 
-B.Tech CSE (AI/ML Hons.) undergraduate at **Manav Rachna University**[cite: 4, 8]. I spend most of my time working on low-level systems code, AI/ML tooling, cloud infrastructure, and hardware prototyping.
+B.Tech CSE (AI/ML Hons.) undergraduate at **Manav Rachna University**. I spend most of my time working on low-level systems code, AI/ML tooling, cloud infrastructure, and hardware prototyping.
 
 ---
 
