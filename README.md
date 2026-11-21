@@ -1,13 +1,13 @@
 ### Hey, I'm Shantanu Sharma (`@shanu337`) 👋
 
-B.Tech CSE (AI/ML Hons.) undergraduate at **Manav Rachna University**[cite: 4, 8]. I spend most of my time working on low-level systems code, AI/ML tooling, cloud infrastructure, and hardware prototyping[cite: 4, 8].
+B.Tech CSE (AI/ML Hons.) undergraduate at **Manav Rachna University**[cite: 4, 8]. I spend most of my time working on low-level systems code, AI/ML tooling, cloud infrastructure, and hardware prototyping.
 
 ---
 
 ### What I'm Currently Working On
 - **Open-Source Systems & Emulation:** Contributing system utility code and refactoring to [`boykopovar/AnyPS5`](https://github.com/boykopovar/AnyPS5) (C++).
-- **AI Developer Tooling:** Building [`DevAI`](https://github.com/shanu337/DevAI), a terminal-first AI CLI for generating, explaining, and debugging code in Python[cite: 8].
-- **Embedded & Hardware Prototyping:** Documenting Arduino Uno circuits, sensor interfacing, and embedded C labs in my [Engineering Exploration Portfolio](https://shanu337.github.io/EE-Portfolio/)[cite: 4, 6].
+- **AI Developer Tooling:** Building [`DevAI`](https://github.com/shanu337/DevAI), a terminal-first AI CLI for generating, explaining, and debugging code in Python.
+- **Embedded & Hardware Prototyping:** Documenting Arduino Uno circuits, sensor interfacing, and embedded C labs in my [Engineering Exploration Portfolio](https://shanu337.github.io/EE-Portfolio/).
 - **Cloud & Linux:** Exploring GCP, AWS, and local LLM workflows on a dual-boot Linux setup.
 
 ---
